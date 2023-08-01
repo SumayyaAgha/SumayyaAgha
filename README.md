@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sumayya Agha
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects
+-  Hi, I’m Sumayya Agha
+-  I’m interested in AI
+-  I’m currently learning Python
+-  I’m looking to collaborate on projects
   
 
 <!---
